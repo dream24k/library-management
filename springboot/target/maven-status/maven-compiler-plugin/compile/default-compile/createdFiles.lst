@@ -1,0 +1,9 @@
+com\lx\controller\request\BaseRequest.class
+com\lx\service\IUserService.class
+com\lx\controller\UserController.class
+com\lx\common\Result.class
+com\lx\service\impl\UserService.class
+com\lx\controller\request\UserPageRequest.class
+com\lx\SpringbootApplication.class
+com\lx\mapper\UserMapper.class
+com\lx\entity\User.class
